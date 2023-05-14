@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Browser-History-App/static/css/main.15e86d37.css",
+    "main.js": "/Browser-History-App/static/js/main.0b4f1163.js",
+    "index.html": "/Browser-History-App/index.html",
+    "main.15e86d37.css.map": "/Browser-History-App/static/css/main.15e86d37.css.map",
+    "main.0b4f1163.js.map": "/Browser-History-App/static/js/main.0b4f1163.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15e86d37.css",
+    "static/js/main.0b4f1163.js"
+  ]
+}
